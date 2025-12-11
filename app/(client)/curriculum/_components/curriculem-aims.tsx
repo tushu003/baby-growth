@@ -52,7 +52,7 @@ export default function CurriculumAims() {
 
       {/* Section 2: Bottom image + extra curriculum activities */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
-        {/* Text */}
+       
         <div className="space-y-6 order-2 md:order-1">
           <div>
             <h3 className="font-medium text-base sm:text-lg text-[#262925]">Extra curriculum activities we offer</h3>
