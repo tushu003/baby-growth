@@ -15,7 +15,7 @@ export default function CurriculumAims() {
 
       {/* Section 1: Top content with image */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
-        {/* Text */}
+        
         <div className="space-y-6">
           <div>
             <h3 className="font-medium leading-8 text-base sm:text-lg text-[#262925]">The power of words</h3>
