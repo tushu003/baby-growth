@@ -39,7 +39,7 @@ export default function CurriculumAims() {
           </div>
         </div>
 
-        {/* Image */}
+        
         <div className="flex justify-center">
           <Image
             src={ReadingImage}
